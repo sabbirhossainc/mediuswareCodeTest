@@ -1,2 +1,0 @@
-# mediuswareCodeTest
-Online coding test
