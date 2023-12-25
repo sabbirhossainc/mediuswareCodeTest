@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "concurrently -n 'client,server' \"vite\" \"json-server --watch data/db.json --port 5000\"",
-    "build": "vite build",
+    "build": "concurrently -n 'client,server' \"vite build\" \"json-server --watch data/db.json --port 5000\"",
     "preview": "vite preview",
     "server": "json-server --watch data/db.json --port 5000"
   },
