@@ -2,4 +2,6 @@
 
 Online coding test for get in queue.
 
-Ready to go
+# To run this project
+
+npm run dev
