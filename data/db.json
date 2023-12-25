@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Example",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Example",
+      "status": "inactive"
+    },
+    {
+      "id": 3,
+      "name": "MD. SABBIR HOSSAIN",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "name": "example",
+      "status": "completed"
+    },
+    {
+      "id": 5,
+      "name": "test",
+      "status": "completed"
+    },
+    {
+      "id": 6,
+      "name": "test2",
+      "status": "inactive"
+    }
+  ]
+}
